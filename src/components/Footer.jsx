@@ -77,7 +77,7 @@ const Footer = () => {
             <div className="flex items-center mb-4">
               <div className="w-10 h-10 bg-white rounded-lg flex items-center justify-center mr-3 p-1">
                 <img 
-                  src="/mahaganith/logo.jpeg"
+                  src="/logo.jpeg"
                   alt="Mahaganith TECHOSOL Logo" 
                   className="w-full h-full object-contain"
                 />
