@@ -42,7 +42,7 @@ const Navbar = () => {
             <Link to="/" className="flex items-center group">
               <div className="w-12 h-12 bg-white rounded-xl flex items-center justify-center mr-4 shadow-lg transform group-hover:scale-110 transition-all duration-300 p-1">
                 <img 
-                  src="/src/assets/logo.jpeg" 
+                  src="/mahaganith/logo.jpeg" 
                   alt="Mahaganith TECHOSOL Logo" 
                   className="w-full h-full object-contain"
                 />
